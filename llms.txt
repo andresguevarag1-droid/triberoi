@@ -1,0 +1,20 @@
+# TRIBEROI Technology
+
+> TRIBEROI, S.A. es una empresa guatemalteca de tecnología con sede en la Ciudad de Guatemala, inscrita en el Registro Mercantil de Guatemala en abril de 2026. Ofrece desarrollo de software a la medida, aplicaciones y sitios web, hosting y nube, soporte y mantenimiento, administración de bases de datos, marketing digital, outsourcing de talento TI y consultoría tecnológica para empresas. Atiende de forma presencial y remota.
+
+## Servicios
+- [Software a la medida](https://www.triberoi.net/servicios#software): sistemas y herramientas internas que automatizan procesos.
+- [Aplicaciones y sitios web](https://www.triberoi.net/servicios#web): sitios corporativos, portales y aplicaciones web.
+- [Hosting y nube](https://www.triberoi.net/servicios#hosting): alojamiento, dominios, SSL, respaldos y monitoreo.
+- [Soporte y mantenimiento](https://www.triberoi.net/servicios#soporte): soporte técnico, seguridad y mejoras continuas.
+- [Administración de bases de datos](https://www.triberoi.net/servicios#datos): diseño, migración, rendimiento y respaldos.
+- [Marketing digital](https://www.triberoi.net/servicios#marketing): estrategia, campañas y analítica.
+- [Outsourcing de talento TI](https://www.triberoi.net/servicios#talento): reclutamiento, contratación y equipos por proyecto.
+- [Consultoría tecnológica](https://www.triberoi.net/servicios#consultoria): diagnóstico, hoja de ruta y selección de herramientas.
+
+## Empresa
+- [Nosotros](https://www.triberoi.net/nosotros): misión, visión y forma de trabajo.
+- [Contacto](https://www.triberoi.net/contacto): formulario y datos de contacto en la Ciudad de Guatemala.
+
+## Forma de trabajo
+Diagnóstico, propuesta por escrito (alcance, tiempos y costos), desarrollo por etapas, lanzamiento y soporte continuo.
