@@ -1,0 +1,377 @@
+# TRIBEROI Technology
+
+> TRIBEROI, S.A. (marca comercial: TRIBEROI Technology) es una empresa guatemalteca de tecnología con oficina en la 25 avenida 1-89, zona 15, Ciudad de Guatemala. Desarrolla software a la medida y aplicaciones web, y ofrece hosting y nube, soporte y mantenimiento, bases de datos, marketing digital, outsourcing de talento TI y consultoría tecnológica para empresas en Guatemala. Atiende de forma presencial y remota.
+
+## Datos clave
+- Razón social: TRIBEROI, S.A.
+- Sitio web: https://www.triberoi.net
+- Dirección: 25 avenida 1-89, zona 15, Ciudad de Guatemala 01015, Guatemala
+- Teléfono y WhatsApp: +502 3060 8643
+- Correo: info@triberoi.net
+- Horario: lunes a viernes, 8:00 a 17:00 (hora de Guatemala)
+- Constitución: abril de 2026, Ciudad de Guatemala
+- Idioma de atención: español
+
+## Servicios
+- [Software a la medida](https://www.triberoi.net/servicios#software): Sistemas hechos para los procesos de cada empresa, desde herramientas internas hasta plataformas de gestión.
+- [Aplicaciones y sitios web](https://www.triberoi.net/servicios#web): Sitios corporativos, portales para clientes y aplicaciones web responsivas y fáciles de actualizar.
+- [Hosting y nube](https://www.triberoi.net/servicios#hosting): Alojamiento de sitios y sistemas en infraestructura confiable, con respaldos automáticos y monitoreo.
+- [Soporte y mantenimiento](https://www.triberoi.net/servicios#soporte): Soporte técnico, actualizaciones de seguridad, corrección de errores y mejoras continuas.
+- [Bases de datos](https://www.triberoi.net/servicios#datos): Diseño, migración, optimización y respaldo de bases de datos empresariales.
+- [Marketing digital](https://www.triberoi.net/servicios#marketing): Estrategia digital, campañas en redes sociales y buscadores, medición y contenido.
+- [Outsourcing de talento TI](https://www.triberoi.net/servicios#talento): Reclutamiento, contratación, capacitación y administración de profesionales de TI.
+- [Consultoría tecnológica](https://www.triberoi.net/servicios#consultoria): Diagnóstico tecnológico, hoja de ruta y acompañamiento en la selección e implementación de herramientas.
+
+---
+
+# Página: Inicio (https://www.triberoi.net/)
+
+## Hacemos que la tecnología trabaje para tu empresa.
+
+Somos un equipo guatemalteco de desarrolladores, diseñadores y especialistas en soporte. Escuchamos cómo trabajas, construimos el software, la web y la infraestructura que necesitas, y nos quedamos para darle mantenimiento.
+
+### ¿En qué te podemos ayudar?
+Elige un servicio para ver qué incluye. Puedes contratar uno o combinarlos: el equipo es el mismo de principio a fin.
+- Software a la medida
+- Aplicaciones y sitios web
+- Hosting y nube
+- Soporte y mantenimiento
+- Bases de datos
+- Marketing digital
+- Outsourcing de talento TI
+- Consultoría tecnológica
+
+#### Software a la medida
+Cuando una hoja de Excel ya no da abasto o tu equipo repite las mismas tareas todos los días, construimos un sistema hecho para tus procesos: desde una herramienta interna sencilla hasta una plataforma completa de gestión.
+
+Qué incluye
+- Levantamiento de requerimientos
+- Diseño de la solución
+- Desarrollo e integraciones
+- Documentación y capacitación
+
+Hablemos de software a la medida
+
+#### Aplicaciones y sitios web
+Diseñamos y desarrollamos sitios corporativos, portales para tus clientes y aplicaciones web que se ven bien en cualquier dispositivo y que tu equipo puede actualizar sin depender de nadie.
+
+Qué incluye
+- Diseño de experiencia e interfaz
+- Sitios corporativos y landing pages
+- Portales y aplicaciones web
+- Velocidad y SEO técnico
+
+Hablemos de tu sitio o aplicación
+
+#### Hosting y nube
+Nos encargamos de que tu sitio y tus sistemas estén siempre disponibles: los alojamos en infraestructura confiable, hacemos respaldos automáticos y vigilamos que todo funcione.
+
+Qué incluye
+- Hosting de sitios y aplicaciones
+- Dominios y certificados SSL
+- Respaldos programados
+- Monitoreo de disponibilidad
+
+Hablemos de hosting y nube
+
+#### Soporte y mantenimiento
+Mantenemos tu tecnología al día y resolvemos los problemas antes de que frenen tu operación. Cuando nos escribes, te contesta una persona que ya conoce tu sistema.
+
+Qué incluye
+- Soporte técnico
+- Actualizaciones de seguridad
+- Corrección de errores
+- Mejoras continuas
+
+Hablemos de soporte y mantenimiento
+
+#### Bases de datos
+Diseñamos, migramos y cuidamos tus bases de datos para que la información de tu empresa esté completa, segura y lista cuando la necesitas.
+
+Qué incluye
+- Diseño y modelado
+- Migraciones
+- Optimización de rendimiento
+- Respaldos y control de acceso
+
+Hablemos de bases de datos
+
+#### Marketing digital
+Te ayudamos a que tu empresa se vea y se encuentre en internet: definimos la estrategia, lanzamos campañas en redes y buscadores, y medimos qué funciona.
+
+Qué incluye
+- Estrategia digital
+- Campañas en redes y buscadores
+- Medición y analítica
+- Contenido para web y redes
+
+Hablemos de marketing digital
+
+#### Outsourcing de talento TI
+Si necesitas más manos técnicas, reclutamos, capacitamos y administramos profesionales de TI que trabajan con tu equipo, por proyecto o de forma continua.
+
+Qué incluye
+- Reclutamiento y selección
+- Contratación y administración
+- Equipos dedicados por proyecto
+- Capacitación técnica
+
+Hablemos de talento TI
+
+#### Consultoría tecnológica
+Antes de comprar una herramienta o arrancar un proyecto, revisamos contigo cómo estás hoy y te recomendamos la ruta que más conviene a tu negocio, sin venderte lo que no necesitas.
+
+Qué incluye
+- Diagnóstico tecnológico
+- Hoja de ruta
+- Selección de herramientas
+- Acompañamiento en la implementación
+
+Hablemos de consultoría tecnológica
+
+### Así trabajamos contigo
+Sin sorpresas. En cada etapa sabes qué estamos haciendo y qué viene después.
+
+#### Te escuchamos
+Una conversación para entender tu negocio, cómo trabajas hoy y qué quieres resolver.
+
+#### Te proponemos
+Recibes por escrito el alcance, los tiempos y el costo. Decides con toda la información.
+
+#### Construimos contigo
+Avanzamos por etapas y te mostramos el trabajo real para que opines antes de seguir.
+
+#### Seguimos a tu lado
+Publicamos, capacitamos a tu equipo y damos soporte después del lanzamiento.
+
+### Lo que puedes esperar de nosotros
+- Un mismo equipo para todoDesarrollo, hosting, soporte y talento con las mismas personas. No tienes que coordinar proveedores.
+- Hablamos claroTe explicamos las decisiones técnicas sin jerga y dejamos los acuerdos por escrito.
+- Hecho para tu forma de trabajarPartimos de tus procesos reales, no de una plantilla que alguien más diseñó.
+- No desaparecemos al entregarDespués del lanzamiento seguimos disponibles para soporte y mejoras.
+
+### Preguntas frecuentes
+Lo que las empresas nos preguntan antes de empezar.
+
+### ¿Qué hace TRIBEROI?
+TRIBEROI es una empresa de tecnología con sede en la Ciudad de Guatemala. Desarrollamos software a la medida y aplicaciones web, ofrecemos hosting, soporte y administración de bases de datos, y apoyamos con marketing digital, outsourcing de talento TI y consultoría tecnológica.
+
+### ¿Dónde están ubicados?
+Nuestra oficina está en la 25 avenida 1-89, zona 15, Ciudad de Guatemala. Atendemos de forma presencial y remota, así que también trabajamos con empresas de otros departamentos.
+
+### ¿Cuánto cuesta un software o un sitio web?
+Depende de lo que necesites. Después de una primera conversación te enviamos una propuesta por escrito con alcance, tiempos y costo, antes de empezar cualquier trabajo.
+
+### ¿Cuánto tiempo toma un proyecto?
+Depende del alcance. Un sitio corporativo suele tomar semanas y un sistema a la medida puede tomar varios meses. En la propuesta te damos un calendario por etapas para que sepas qué recibes y cuándo.
+
+### ¿Dan soporte después de entregar el proyecto?
+Sí. Ofrecemos soporte técnico, actualizaciones de seguridad, corrección de errores y mejoras continuas después del lanzamiento.
+
+### ¿Pueden aportar personal de TI a mi empresa?
+Sí. Reclutamos, capacitamos y administramos profesionales de tecnología que se integran a tu equipo, por proyecto o de forma continua.
+
+### Cuéntanos qué necesitas
+
+Escríbenos aunque todavía no tengas claro el proyecto. Te ayudamos a ordenarlo.
+
+Te responde una persona de nuestro equipo, no un bot.
+
+Nombre
+
+Correo
+
+¿En qué te ayudamos?Elige una opciónSoftware a la medidaAplicaciones y sitios webHosting y nubeSoporte y mantenimientoBases de datosMarketing digitalOutsourcing de talento TIConsultoría tecnológicaAún no lo sé
+
+Cuéntanos un poco más
+
+Acepto el aviso de privacidad y que TRIBEROI use estos datos para responder mi mensaje.
+Enviar mensaje
+
+---
+
+# Página: Servicios (https://www.triberoi.net/servicios)
+
+Inicio / Servicios
+
+## Software, web y servicios TI para empresas en Guatemala
+
+Puedes contratar un servicio puntual o combinarlos. En todos los casos trabajas con el mismo equipo, que conoce tu negocio y tus sistemas.
+
+### Software a la medida
+
+Cuando una hoja de Excel ya no da abasto o tu equipo repite las mismas tareas todos los días, construimos un sistema hecho para tus procesos: desde una herramienta interna sencilla hasta una plataforma completa de gestión.
+Hablemos de este servicio
+- Levantamiento de requerimientos
+- Diseño de la solución
+- Desarrollo e integraciones
+- Documentación y capacitación
+
+### Aplicaciones y sitios web
+
+Diseñamos y desarrollamos sitios corporativos, portales para tus clientes y aplicaciones web que se ven bien en cualquier dispositivo y que tu equipo puede actualizar sin depender de nadie.
+Hablemos de este servicio
+- Diseño de experiencia e interfaz
+- Sitios corporativos y landing pages
+- Portales y aplicaciones web
+- Velocidad y SEO técnico
+
+### Hosting y nube
+
+Nos encargamos de que tu sitio y tus sistemas estén siempre disponibles: los alojamos en infraestructura confiable, hacemos respaldos automáticos y vigilamos que todo funcione.
+Hablemos de este servicio
+- Hosting de sitios y aplicaciones
+- Dominios y certificados SSL
+- Respaldos programados
+- Monitoreo de disponibilidad
+
+### Soporte y mantenimiento
+
+Mantenemos tu tecnología al día y resolvemos los problemas antes de que frenen tu operación. Cuando nos escribes, te contesta una persona que ya conoce tu sistema.
+Hablemos de este servicio
+- Soporte técnico
+- Actualizaciones de seguridad
+- Corrección de errores
+- Mejoras continuas
+
+### Bases de datos
+
+Diseñamos, migramos y cuidamos tus bases de datos para que la información de tu empresa esté completa, segura y lista cuando la necesitas.
+Hablemos de este servicio
+- Diseño y modelado
+- Migraciones
+- Optimización de rendimiento
+- Respaldos y control de acceso
+
+### Marketing digital
+
+Te ayudamos a que tu empresa se vea y se encuentre en internet: definimos la estrategia, lanzamos campañas en redes y buscadores, y medimos qué funciona.
+Hablemos de este servicio
+- Estrategia digital
+- Campañas en redes y buscadores
+- Medición y analítica
+- Contenido para web y redes
+
+### Outsourcing de talento TI
+
+Si necesitas más manos técnicas, reclutamos, capacitamos y administramos profesionales de TI que trabajan con tu equipo, por proyecto o de forma continua.
+Hablemos de este servicio
+- Reclutamiento y selección
+- Contratación y administración
+- Equipos dedicados por proyecto
+- Capacitación técnica
+
+### Consultoría tecnológica
+
+Antes de comprar una herramienta o arrancar un proyecto, revisamos contigo cómo estás hoy y te recomendamos la ruta que más conviene a tu negocio, sin venderte lo que no necesitas.
+Hablemos de este servicio
+- Diagnóstico tecnológico
+- Hoja de ruta
+- Selección de herramientas
+- Acompañamiento en la implementación
+
+### Preguntas sobre nuestros servicios
+Lo que conviene saber antes de contratar.
+
+### ¿Puedo contratar un solo servicio?
+Sí. Puedes contratar un servicio puntual, como un sitio web o soporte, o combinar varios. En ambos casos trabajas con el mismo equipo.
+
+### ¿El software queda a nombre de mi empresa?
+Sí. Lo que desarrollamos para ti se entrega con su código y documentación, y los accesos a dominios, servidores y cuentas quedan a nombre de tu empresa.
+
+### ¿Trabajan con sistemas que ya tenemos?
+Sí. Podemos mejorar, integrar o migrar sistemas existentes. Primero revisamos lo que tienes y te decimos qué conviene conservar y qué conviene cambiar.
+
+### ¿Cómo funciona el soporte?
+Nos escribes por correo o WhatsApp y te responde una persona del equipo que ya conoce tu sistema. El nivel de soporte se acuerda por escrito en la propuesta.
+
+### ¿No sabes cuál necesitas?
+Cuéntanos qué quieres resolver y te recomendamos por dónde empezar.
+
+Agendar una llamada
+
+---
+
+# Página: Nosotros (https://www.triberoi.net/nosotros)
+
+Inicio / Nosotros
+
+## Somos una empresa guatemalteca de tecnología
+
+TRIBEROI, S.A. tiene su sede en la Ciudad de Guatemala. Reunimos especialistas en software, web, infraestructura y talento TI, y trabajamos como una extensión de tu equipo.
+
+### Tecnología con nombre y apellido
+
+Creemos que un buen proyecto de tecnología empieza por una buena conversación. Por eso cada cliente trabaja con personas concretas de nuestro equipo, que conocen su negocio y responden cuando algo hace falta.
+
+Nuestro trabajo se mide por algo simple: que la inversión en tecnología se note en el día a día de tu empresa.
+
+### Misión
+Diseñar, construir y mantener soluciones tecnológicas a la medida que ayuden a las empresas a operar mejor y crecer.
+
+### Visión
+Ser el aliado tecnológico de referencia para las empresas de Guatemala y la región.
+
+### Cómo nos comportamos
+
+#### Claridad
+Hablamos sin tecnicismos y dejamos todo por escrito.
+
+#### Compromiso
+Cumplimos lo acordado, en tiempo y forma.
+
+#### Calidad técnica
+Construimos para que funcione hoy y pueda crecer mañana.
+
+#### Cercanía
+Estamos disponibles antes, durante y después del proyecto.
+
+Razón socialTRIBEROI, S.A.
+
+SedeCiudad de Guatemala
+
+EspecialidadSoftware y servicios TI
+
+AtenciónPresencial y remota
+
+### Conversemos sobre tu empresa
+Te contamos qué puede hacer la tecnología por tu operación.
+
+Agendar una llamada
+
+---
+
+# Página: Contacto (https://www.triberoi.net/contacto)
+
+Inicio / Contacto
+
+## Hablemos de tu proyecto
+
+Completa el formulario o escríbenos directamente. Te responde una persona de nuestro equipo.
+
+Correoinfo@triberoi.net
+
+Teléfono y WhatsApp+502 3060 8643 Abrir WhatsApp
+
+Dirección25 avenida 1-89, zona 15, Ciudad de Guatemala 01015
+
+HorarioLunes a viernes, 8:00 a 17:00
+
+Nombre
+
+Correo
+
+Empresa
+
+Teléfono o WhatsApp
+
+¿En qué te ayudamos?Elige una opciónSoftware a la medidaAplicaciones y sitios webHosting y nubeSoporte y mantenimientoBases de datosMarketing digitalOutsourcing de talento TIConsultoría tecnológicaAún no lo sé
+
+Cuéntanos un poco más
+
+Acepto el aviso de privacidad y que TRIBEROI use estos datos para responder mi mensaje.
+Enviar mensaje
+
+### Cómo llegar
+25 avenida 1-89, zona 15, Ciudad de Guatemala 01015. Horario de atención: lunes a viernes, de 8:00 a 17:00.
+Abrir en Google Maps

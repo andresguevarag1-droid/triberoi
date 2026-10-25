@@ -1,27 +1,39 @@
 # TRIBEROI Technology
 
-> TRIBEROI, S.A. es una empresa guatemalteca de tecnología con sede en la Ciudad de Guatemala, inscrita en el Registro Mercantil de Guatemala en abril de 2026. Ofrece desarrollo de software a la medida, aplicaciones y sitios web, hosting y nube, soporte y mantenimiento, administración de bases de datos, marketing digital, outsourcing de talento TI y consultoría tecnológica para empresas. Atiende de forma presencial y remota.
+> TRIBEROI, S.A. (marca comercial: TRIBEROI Technology) es una empresa guatemalteca de tecnología con oficina en la 25 avenida 1-89, zona 15, Ciudad de Guatemala. Desarrolla software a la medida y aplicaciones web, y ofrece hosting y nube, soporte y mantenimiento, bases de datos, marketing digital, outsourcing de talento TI y consultoría tecnológica para empresas en Guatemala. Atiende de forma presencial y remota.
+
+## Datos clave
+- Razón social: TRIBEROI, S.A.
+- Sitio web: https://www.triberoi.net
+- Dirección: 25 avenida 1-89, zona 15, Ciudad de Guatemala 01015, Guatemala
+- Teléfono y WhatsApp: +502 3060 8643
+- Correo: info@triberoi.net
+- Horario: lunes a viernes, 8:00 a 17:00 (hora de Guatemala)
+- Constitución: abril de 2026, Ciudad de Guatemala
+- Idioma de atención: español
 
 ## Servicios
-- [Software a la medida](https://www.triberoi.net/servicios#software): sistemas y herramientas internas que automatizan procesos.
-- [Aplicaciones y sitios web](https://www.triberoi.net/servicios#web): sitios corporativos, portales y aplicaciones web.
-- [Hosting y nube](https://www.triberoi.net/servicios#hosting): alojamiento, dominios, SSL, respaldos y monitoreo.
-- [Soporte y mantenimiento](https://www.triberoi.net/servicios#soporte): soporte técnico, seguridad y mejoras continuas.
-- [Administración de bases de datos](https://www.triberoi.net/servicios#datos): diseño, migración, rendimiento y respaldos.
-- [Marketing digital](https://www.triberoi.net/servicios#marketing): estrategia, campañas y analítica.
-- [Outsourcing de talento TI](https://www.triberoi.net/servicios#talento): reclutamiento, contratación y equipos por proyecto.
-- [Consultoría tecnológica](https://www.triberoi.net/servicios#consultoria): diagnóstico, hoja de ruta y selección de herramientas.
+- [Software a la medida](https://www.triberoi.net/servicios#software): Sistemas hechos para los procesos de cada empresa, desde herramientas internas hasta plataformas de gestión.
+- [Aplicaciones y sitios web](https://www.triberoi.net/servicios#web): Sitios corporativos, portales para clientes y aplicaciones web responsivas y fáciles de actualizar.
+- [Hosting y nube](https://www.triberoi.net/servicios#hosting): Alojamiento de sitios y sistemas en infraestructura confiable, con respaldos automáticos y monitoreo.
+- [Soporte y mantenimiento](https://www.triberoi.net/servicios#soporte): Soporte técnico, actualizaciones de seguridad, corrección de errores y mejoras continuas.
+- [Bases de datos](https://www.triberoi.net/servicios#datos): Diseño, migración, optimización y respaldo de bases de datos empresariales.
+- [Marketing digital](https://www.triberoi.net/servicios#marketing): Estrategia digital, campañas en redes sociales y buscadores, medición y contenido.
+- [Outsourcing de talento TI](https://www.triberoi.net/servicios#talento): Reclutamiento, contratación, capacitación y administración de profesionales de TI.
+- [Consultoría tecnológica](https://www.triberoi.net/servicios#consultoria): Diagnóstico tecnológico, hoja de ruta y acompañamiento en la selección e implementación de herramientas.
 
-## Empresa
-- [Nosotros](https://www.triberoi.net/nosotros): misión, visión y forma de trabajo.
-- [Contacto](https://www.triberoi.net/contacto): formulario y datos de contacto en la Ciudad de Guatemala.
+## Páginas
+- [Inicio](https://www.triberoi.net/): qué hace TRIBEROI, cómo trabaja y preguntas frecuentes.
+- [Servicios](https://www.triberoi.net/servicios): detalle de cada servicio y qué incluye.
+- [Nosotros](https://www.triberoi.net/nosotros): misión, visión y valores.
+- [Contacto](https://www.triberoi.net/contacto): formulario, datos de contacto y mapa.
+- [Aviso de privacidad](https://www.triberoi.net/privacidad)
 
 ## Forma de trabajo
-Diagnóstico, propuesta por escrito (alcance, tiempos y costos), desarrollo por etapas, lanzamiento y soporte continuo.
+1. Conversación inicial para entender el negocio y lo que se quiere resolver.
+2. Propuesta por escrito con alcance, tiempos y costo.
+3. Desarrollo por etapas con revisiones del cliente.
+4. Lanzamiento, capacitación y soporte continuo.
 
-## Datos de contacto
-
-- Teléfono y WhatsApp: +502 3060 8643
-- Dirección: 25 avenida 1-89, zona 15, Ciudad de Guatemala 01015, Guatemala
-- Correo: info@triberoi.net
-- Horario: lunes a viernes, 8:00 a 17:00
+## Más detalle
+- [Versión completa para modelos de lenguaje](https://www.triberoi.net/llms-full.txt)

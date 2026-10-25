@@ -3,13 +3,33 @@
   "trailingSlash": false,
   "headers": [
     {
-      "source": "/assets/(.*)",
+      "source": "/(.*)",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=604800"
-        }
+        { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), interest-cohort=()" }
       ]
+    },
+    {
+      "source": "/assets/fonts/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    },
+    {
+      "source": "/assets/(.*)\\.(css|js|svg|png)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800, stale-while-revalidate=86400" }]
+    },
+    {
+      "source": "/(llms.txt|llms-full.txt)",
+      "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }]
     }
+  ],
+  "redirects": [
+    { "source": "/inicio", "destination": "/", "permanent": true },
+    { "source": "/servicio", "destination": "/servicios", "permanent": true },
+    { "source": "/contact", "destination": "/contacto", "permanent": true },
+    { "source": "/about", "destination": "/nosotros", "permanent": true },
+    { "source": "/privacy", "destination": "/privacidad", "permanent": true }
   ]
 }

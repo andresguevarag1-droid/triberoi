@@ -1,20 +1,20 @@
+# TRIBEROI Technology - www.triberoi.net
 User-agent: *
 Allow: /
+Disallow: /404
 
-# Buscadores con IA: permitido para que TRIBEROI aparezca citado en respuestas
+# Buscadores y asistentes con IA: permitidos para que TRIBEROI aparezca citado en sus respuestas
 User-agent: GPTBot
-Allow: /
 User-agent: OAI-SearchBot
-Allow: /
 User-agent: ChatGPT-User
-Allow: /
 User-agent: ClaudeBot
-Allow: /
 User-agent: Claude-SearchBot
-Allow: /
+User-agent: Claude-User
 User-agent: PerplexityBot
-Allow: /
+User-agent: Perplexity-User
 User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://www.triberoi.net/sitemap.xml
